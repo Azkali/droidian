@@ -1,0 +1,20 @@
+# This file has been generated automatically by droidian-new-device
+
+# samsung q2q
+samsung_q2q:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 30
+  use_internal_repository: true
+
+  packages:
+    - adaptation-samsung-q2q
+    - adaptation-samsung-q2q-configs
+    - linux-bootimage-5.4.147-samsung-q2q
+    - linux-bootimage-samsung-q2q
+    - linux-headers-5.4.147-samsung-q2q
+    - linux-headers-samsung-q2q
+    - linux-image-5.4.147-samsung-q2q
+    - linux-image-samsung-q2q
