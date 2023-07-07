@@ -8,6 +8,7 @@ samsung_q2q:
   variant: phone
   apilevel: 30
   use_internal_repository: false
+  output_type: image
 
   packages:
     - adaptation-samsung-q2q
