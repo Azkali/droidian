@@ -7,7 +7,7 @@ samsung_q2q:
   edition: phosh
   variant: phone
   apilevel: 30
-  use_internal_repository: true
+  use_internal_repository: false
 
   packages:
     - adaptation-samsung-q2q
