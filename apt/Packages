@@ -18,12 +18,12 @@ Source: adaptation-samsung-q2q
 Version: 0.0.0+git20230707134658.29d0034.bookworm
 Architecture: arm64
 Maintainer: azkali <a.ffcc7@gmail.com>
-Installed-Size: 29
+Installed-Size: 257
 Filename: ./adaptation-samsung-q2q-configs_0.0.0+git20230707134658.29d0034.bookworm_arm64.deb
-Size: 6280
-MD5sum: 09f1e2f3429a6759856107e64d22f586
-SHA1: 48fcae7bff973b44609c8b2026cf29fe9c898302
-SHA256: 55f4317082850a71d7ff6a207ed67065ca7649d321aa7f87c73d5e707c91bfd6
+Size: 42536
+MD5sum: e4b9d6f89471c3a302c1591e4fece5a4
+SHA1: e0cb177b30658bbd566218e88474afc18981031b
+SHA256: 2945d7ccf91b3ae653ba210c850f78ee34be96912a4c04c5a537627ce49b9c98
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-q2q - adaptation configurations
