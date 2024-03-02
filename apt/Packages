@@ -20,10 +20,10 @@ Architecture: arm64
 Maintainer: azkali <a.ffcc7@gmail.com>
 Installed-Size: 224
 Filename: ./adaptation-samsung-q2q-configs_0.0.0+git20240302000711.9c49d9e.droidian_arm64.deb
-Size: 34668
-MD5sum: 6efacd840397efa2be6410a99619fd38
-SHA1: d6030bcd03b605969ad1d6ef7ac2fd9d359d0a98
-SHA256: bebba8413511316ab347a6e0a3b5060772ff420923ece047c80947143c6933ee
+Size: 34672
+MD5sum: 931badc71f6fb7a0515f87eeb5040863
+SHA1: 95e5c6ea958e2ebdb0232da8c963ccde1a5340ad
+SHA256: 00364ff4b70dd08e51a46ca8764adf2ec52b579669e8d08b270fe734393e97ca
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-q2q - adaptation configurations
