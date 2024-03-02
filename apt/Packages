@@ -1,29 +1,29 @@
 Package: adaptation-samsung-q2q
-Version: 0.0.0+git20240301225333.942050e.droidian
+Version: 0.0.0+git20240302000711.9c49d9e.droidian
 Architecture: arm64
 Maintainer: azkali <a.ffcc7@gmail.com>
 Installed-Size: 9
-Depends: adaptation-hybris-api30-phone, adaptation-samsung-q2q-configs (= 0.0.0+git20240301225333.942050e.droidian)
-Filename: ./adaptation-samsung-q2q_0.0.0+git20240301225333.942050e.droidian_arm64.deb
-Size: 2228
-MD5sum: 5ace14f2085be0a284ee286cb075a9f3
-SHA1: 3ba8d815e67dde8834400cc70f8c37f2dd798c6d
-SHA256: ad6aa3a0b3fbc62c3950dd00121b445c34032ac144f000f44e6746fe2db57af8
+Depends: adaptation-hybris-api30-phone, adaptation-samsung-q2q-configs (= 0.0.0+git20240302000711.9c49d9e.droidian)
+Filename: ./adaptation-samsung-q2q_0.0.0+git20240302000711.9c49d9e.droidian_arm64.deb
+Size: 2252
+MD5sum: 29dca7361c3df803a58d3b2d7757afeb
+SHA1: cd5eaf9140653501f6b47efe0fbdcaa56d1d00dc
+SHA256: 447b0a2dd5510fe9561aa5b7c9aef188b7168f7a10bd2a91d358f8cce94828ee
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-q2q - metapackage
 
 Package: adaptation-samsung-q2q-configs
 Source: adaptation-samsung-q2q
-Version: 0.0.0+git20240301225333.942050e.droidian
+Version: 0.0.0+git20240302000711.9c49d9e.droidian
 Architecture: arm64
 Maintainer: azkali <a.ffcc7@gmail.com>
-Installed-Size: 228
-Filename: ./adaptation-samsung-q2q-configs_0.0.0+git20240301225333.942050e.droidian_arm64.deb
-Size: 36624
-MD5sum: f42ca418ecb194516ce0a8cf23b84418
-SHA1: 3677f6b5d6f3f83d9c268d613d906d811d9ef298
-SHA256: 729909b03673bf2e3ecaea07b0fcfc9a1bd0ff2bcf52771730aeb59a52dc386e
+Installed-Size: 224
+Filename: ./adaptation-samsung-q2q-configs_0.0.0+git20240302000711.9c49d9e.droidian_arm64.deb
+Size: 34668
+MD5sum: 6efacd840397efa2be6410a99619fd38
+SHA1: d6030bcd03b605969ad1d6ef7ac2fd9d359d0a98
+SHA256: bebba8413511316ab347a6e0a3b5060772ff420923ece047c80947143c6933ee
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-q2q - adaptation configurations
