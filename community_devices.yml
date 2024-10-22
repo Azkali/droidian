@@ -12,3 +12,9 @@ samsung_q2q:
   packages:
     - adaptation-samsung-q2q
     - adaptation-samsung-q2q-configs
+    - linux-bootimage-5.4.254-samsung-q2q
+    - linux-bootimage-samsung-q2q
+    - linux-headers-5.4.254-samsung-q2q
+    - linux-headers-samsung-q2q
+    - linux-image-5.4.254-samsung-q2q
+    - linux-image-samsung-q2q
