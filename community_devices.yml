@@ -1,0 +1,14 @@
+# This file has been generated automatically by droidian-new-device
+
+# samsung q2q
+samsung_q2q:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 30
+  use_internal_repository: true
+
+  packages:
+    - adaptation-samsung-q2q
+    - adaptation-samsung-q2q-configs
