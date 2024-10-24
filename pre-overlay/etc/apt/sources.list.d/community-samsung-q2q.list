@@ -1,2 +1,2 @@
 # You can add here your custom apt repositories
-deb [signed-by=/usr/share/keyrings/q2q.gpg] https://azkali.github.io/q2q-droidian-repo bookworm main
+deb [signed-by=/usr/share/keyrings/q2q.gpg] https://azkali.github.io/q2q-droidian-repo stable main
