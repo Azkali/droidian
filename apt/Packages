@@ -1,29 +1,29 @@
 Package: adaptation-samsung-q2q
-Version: 0.0.0+git20241028001141.b409ff9.bookworm
+Version: 0.0.0+git20241028004154.b1fa2ff.bookworm
 Architecture: arm64
 Maintainer: Azkali Manad <a.ffcc7@gmail.com>
 Installed-Size: 9
-Depends: adaptation-hybris-api30-phone, adaptation-samsung-q2q-configs (= 0.0.0+git20241028001141.b409ff9.bookworm)
-Filename: ./adaptation-samsung-q2q_0.0.0+git20241028001141.b409ff9.bookworm_arm64.deb
-Size: 2252
-MD5sum: d33b39d04df5ad1a5d9e13ae9c14c54d
-SHA1: 05985d98cf6c62f2f03b393b3d297f218a385462
-SHA256: 7ea5927fde76e8cedac244be204c435930ad286279bfee51e9518f111ea1949c
+Depends: adaptation-hybris-api30-phone, adaptation-samsung-q2q-configs (= 0.0.0+git20241028004154.b1fa2ff.bookworm)
+Filename: ./adaptation-samsung-q2q_0.0.0+git20241028004154.b1fa2ff.bookworm_arm64.deb
+Size: 2248
+MD5sum: f88f23e1f0a471fa10eefb72c3e63d5c
+SHA1: 977bb201b6677fedb0a0ab045e0a841b2428ec96
+SHA256: a4f959f342d36473d2b09ad201521652e35b4c167ca2f5e541a7d58d3e11e7f0
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-q2q - metapackage
 
 Package: adaptation-samsung-q2q-configs
 Source: adaptation-samsung-q2q
-Version: 0.0.0+git20241028001141.b409ff9.bookworm
+Version: 0.0.0+git20241028004154.b1fa2ff.bookworm
 Architecture: arm64
 Maintainer: Azkali Manad <a.ffcc7@gmail.com>
-Installed-Size: 223
-Filename: ./adaptation-samsung-q2q-configs_0.0.0+git20241028001141.b409ff9.bookworm_arm64.deb
-Size: 35636
-MD5sum: 2088e93af4235176d16f9655b7302645
-SHA1: 4ebc04753608d0cd16acfc62e5db51f0d28f5ea2
-SHA256: bc510c490fe4df14ceccf339603b78a7cba933f1f974292e9b2fe17cde1b6446
+Installed-Size: 224
+Filename: ./adaptation-samsung-q2q-configs_0.0.0+git20241028004154.b1fa2ff.bookworm_arm64.deb
+Size: 35244
+MD5sum: ce72cd22127141e71810551d15ddc7c3
+SHA1: 151d507350bc21d86983976e2e4339460b2dcbdd
+SHA256: 82df3369375f2685f0c8d5feed5d2ead0d0be05fbe19bc475188de363b07ea77
 Section: metapackages
 Priority: optional
 Description: Community adaptation for samsung-q2q - adaptation configurations
